@@ -105,4 +105,5 @@ Competitive Pricing: Price remains a key factor in customer retention. Offering 
 Loyalty Programs: Implement loyalty programs that reward long-term customers with exclusive benefits and incentives. This fosters a sense of loyalty and encourages continued engagement with your brand, ultimately reducing churn.
 
 Repository Guide: https://github.com/KMalinga/churn
+
 Dataset: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset?resource=download
